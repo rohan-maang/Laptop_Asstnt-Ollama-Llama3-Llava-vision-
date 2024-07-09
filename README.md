@@ -1,0 +1,1 @@
+# Laptop_Asstnt-Ollama-Llama3-Llava-vision-
