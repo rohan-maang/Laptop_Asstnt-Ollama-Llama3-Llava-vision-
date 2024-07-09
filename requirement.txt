@@ -1,0 +1,6 @@
+import os
+import time
+import speech_recognition as sr
+import ollama
+import pyautogui as pg
+import pyperclip
