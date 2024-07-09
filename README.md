@@ -17,25 +17,26 @@ This project is a voice-controlled assistant inspired by the character Wednesday
 - Python 3.x
 - Pip (Python package installer)
 
-### Required Libraries
+
+## Required Libraries
 
 You can install the required libraries using `pip`:
 
-```bash
-pip install speechrecognition pyautogui pyperclip ollama
+	```bash
+	pip install speechrecognition pyautogui pyperclip ollama
 
 ## Step-by-Step Installation
 
 	1.	Clone the Repository:
 
-  ```bash
-git clone https://github.com/your_username/Virtual_Assistant.git
-cd Virtual_Assistant
+	  ```bash
+	git clone https://github.com/your_username/Virtual_Assistant.git
+	cd Virtual_Assistant
 
 2.	Install the Dependencies:
 
-  ```bash
-pip install -r requirements.txt
+	  ```bash
+	pip install -r requirements.txt
 
 ## Usage
 
